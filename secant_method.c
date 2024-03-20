@@ -8,7 +8,7 @@
 #define f(x) pow (x,5)+pow(x,3)+5
 
 int main() {
-	SetConsoleTitle("Anushesh K. K. Tharu ");
+	SetConsoleTitle("Priyanshu Kushawaha ");
 	
 	printf("// Secant Method \n\n\n");
 	
